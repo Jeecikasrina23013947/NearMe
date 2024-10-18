@@ -1,5 +1,5 @@
 # Ex04 - Image Map
-## Date: 22.03.2024
+## Date: 18.10.2024
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -79,12 +79,6 @@ Execute the programs and publish them.
  ![image](https://github.com/JAYASREE24032006/NearMe/assets/144360800/2941cef4-9b7e-4dea-a153-c69c358ddcb4)
 
  ![Screenshot 2024-04-14 220911](https://github.com/JAYASREE24032006/NearMe/assets/144360800/bddda35b-b067-410d-b3b3-bfd8929ed518)
-
-
-
-
-
-
 
 
 
